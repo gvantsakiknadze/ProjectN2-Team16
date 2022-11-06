@@ -1,6 +1,4 @@
-/* Work managment */
 .Work-management {
- 
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
@@ -185,10 +183,11 @@
   }
   .element-work {
     margin-top: 55px;
-    height: 28.81144905090332px;
-    width: 230.36407470703125px;
+    height: 28.81px;
+    width: 230.36px;
     margin-left: 197px;
     border-radius: 0px;
+    
   }
   
   .text-work {

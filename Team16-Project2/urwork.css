@@ -1,0 +1,108 @@
+.your-work {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 140px 220px;
+  
+    position: absolute;
+    height: 574px;
+    left: 0px;
+    right: -1px;
+    top: 4540px;
+  
+    background: #043873;
+  }
+  .heading-yourWork {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    gap: 60px;
+  
+    width: 1481px;
+    height: 294px;
+  }
+  .block-yourWork {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px;
+    gap: 24px;
+    isolation: isolate;
+  
+    width: 1064px;
+    height: 171px;
+  }
+  .header-yourWork {
+    width: 1064px;
+    height: 87px;
+  }
+  .header-yourWork-1 {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 75px;
+    line-height: 87px;
+    letter-spacing: -0.01em;
+  
+    color: #ffffff;
+  }
+
+  .text-yourWork {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+  
+    text-align: center;
+    letter-spacing: -0.02em;
+  
+    color: #ffffff;
+  }
+  .btn-yourWork {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 40px;
+    gap: 10px;
+    isolation: isolate;
+  
+    width: 195px;
+    height: 63px;
+  
+    background: #4f9cf9;
+    border-radius: 8px;
+  }
+  .tryTaskey {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 23px;
+  
+    letter-spacing: -0.02em;
+    background: #4f9cf9;
+    border: none;
+    color: #ffffff;
+  }
+  .background-yourWork {
+    position: absolute;
+    width: 680.74px;
+    height: 691.34px;
+    left: -50.81px;
+    top: -190.47px;
+    opacity: 0.2;
+  }
+   .element-yourWork {
+    position: absolute;
+    left: 60%;
+    right: 2%;
+    top: 36.31%;
+    bottom: 49.68%;
+    margin-top: 10px;
+    border-radius: 0px;
+   } 
+  

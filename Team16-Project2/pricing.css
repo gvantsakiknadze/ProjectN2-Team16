@@ -1,0 +1,383 @@
+/* pricing */
+.pricing {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 140px 220px;
+    gap: 60px;
+  
+    position: absolute;
+    height: 1272px;
+    left: 0px;
+    right: -1px;
+    top: 3268px;
+  }
+  .block-pricing {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    gap: 60px;
+  
+    width: 1481px;
+    height: 992px;
+  }
+  .heading-pricing {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px;
+    gap: 24px;
+    isolation: isolate;
+  
+    width: 1481px;
+    height: 171px;
+  }
+  .header-pricing {
+    width: 1481px;
+    height: 87px;
+  }
+  .header-pricing-1 {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 72px;
+    line-height: 87px;
+    text-align: center;
+    letter-spacing: -0.02em;
+  
+    color: #212529;
+  }
+  .element-pricing {
+    position: absolute;
+    left: 49.43%;
+    right: 29.05%;
+    top: 16%;
+    bottom: 47.53%;
+  }
+  .text-pricing {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    text-align: center;
+    letter-spacing: -0.02em;
+  
+    color: #212529;
+  }
+  .priceList {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    gap: 32px;
+  
+    width: 1481px;
+    height: 761px;
+  }
+  .priceBoard1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 40px 44px;
+    gap: 25px;
+  
+    width: 472.33px;
+    height: 634px;
+  
+    background: #ffffff;
+    border: 1px solid #ffe492;
+    border-radius: 10px;
+  }
+  .textBlock-pricing1 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 25px;
+  
+    width: 384.33px;
+    height: 153px;
+  }
+  .pricing1-1 {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+  }
+  .pricing1-2 {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 44px;
+    letter-spacing: -0.02em;
+  }
+  .pricing1-3 {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 23px;
+    letter-spacing: -0.02em;
+  }
+  .bulletPoint-pricing1 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 28px;
+    width: 384.33px;
+    height: 300px;
+  }
+  ul {
+    list-style: none;
+  }
+  
+  .bullets1 {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 45px;
+    padding-left: 5px;
+    letter-spacing: -0.02em;
+  
+    color: #212529;
+  }
+  .btn-pricing1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 16px 40px;
+  
+    width: 166px;
+    height: 51px;
+  
+    background: #ffffff;
+    border: 1px solid #ffe492;
+    border-radius: 8px;
+  }
+  .btn-p1 {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: -0.02em;
+    background: #ffffff;
+    border: none;
+    color: #212529;
+  }
+  .priceBoard2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 80px 44px;
+    gap: 25px;
+  
+    width: 472.33px;
+    height: 761px;
+  
+    background: #ffffff;
+    box-shadow: 0px 4px 50px rgba(0, 0, 0, 0.08);
+    border-radius: 10px;
+  }
+  .textBlock-pricing2 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 25px;
+  
+    width: 384.33px;
+    height: 153px;
+  }
+  .pricing2-1 {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+  
+    color: #043873;
+  }
+  .pricing2-2 {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 44px;
+    letter-spacing: -0.02em;
+  
+    color: #043873;
+  }
+  .pricing2-3 {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 23px;
+    letter-spacing: -0.02em;
+  
+    color: #043873;
+  }
+  .bulletPoint-pricing2 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 28px;
+  
+    width: 384.33px;
+    height: 347px;
+  }
+  .bullets2 {
+    flex-direction: row;
+    align-items: center;
+    padding-left: 5px;
+    gap: 19px;
+  
+    width: 384.33px;
+    height: 23px;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 45px;
+  
+    letter-spacing: -0.02em;
+  
+    color: #043873;
+  }
+  .btn-pricing2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 16px 40px;
+  
+    width: 166px;
+    height: 51px;
+  
+    background: #4f9cf9;
+    border-radius: 8px;
+  }
+  .btn-p2 {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: -0.02em;
+    background: #4f9cf9;
+    color: #ffffff;
+    border: none;
+  }
+  .priceBoard3 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 40px 44px;
+    gap: 25px;
+  
+    width: 472.33px;
+    height: 634px;
+  
+    background: #ffffff;
+    border: 1px solid #ffe492;
+    border-radius: 10px;
+  }
+  .textBlock-pricing3 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 25px;
+  
+    width: 384.33px;
+    height: 153px;
+  }
+  .pricing3-1 {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+  
+    color: #212529;
+  }
+  .pricing3-2 {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 44px;
+    letter-spacing: -0.02em;
+  
+    color: #212529;
+  }
+  .pricing3-3 {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 23px;
+    letter-spacing: -0.02em;
+  
+    color: #212529;
+  }
+  .bulletPoint-pricing3 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 28px;
+  
+    width: 384.33px;
+    height: 300px;
+  }
+  .bullets3 {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 45px;
+    padding-left: 5px;
+  
+    letter-spacing: -0.02em;
+  }
+  .btn-pricing3 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 16px 40px;
+  
+    width: 166px;
+    height: 51px;
+  
+    background: #ffffff;
+    border: 1px solid #ffe492;
+    border-radius: 8px;
+  }
+  .btn-p3 {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: -0.02em;
+    background: #ffffff;
+    border: none;
+    color: #212529;
+  }

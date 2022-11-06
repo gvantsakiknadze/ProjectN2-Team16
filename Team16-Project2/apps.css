@@ -103,6 +103,7 @@
     height: 63px;
     background: #4f9cf9;
     border-radius: 8px;
+    border: none;
     font-family: "Inter";
     font-style: normal;
     font-weight: 500;
@@ -110,6 +111,7 @@
     line-height: 23px;
     letter-spacing: -0.02em;
     color: #ffffff;
+    
   }
   
  

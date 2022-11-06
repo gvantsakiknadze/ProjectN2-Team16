@@ -1,70 +1,72 @@
-.Hero-Section {
+.your-data {
     display: flex;
     flex-direction: row;
+    justify-content: center;
     align-items: center;
-    isolation: isolate;
-    position: absolute;
-  
-    height: 829px;
-    width: 1920px;
-    margin-top: 92px;
     padding: 140px 220px;
   
-    background: #ffffff;
+    position: absolute;
+    height: 661.13px;
+    left: 0px;
+    right: -1px;
+    top: 5114px;
   }
-  .Hero-Block{
+  .block-data {
     display: flex;
     flex-direction: row;
     justify-content: center;
     align-items: center;
     padding: 0px;
   
-    width: 1480px;
-    height: 549px;
+    width: 1481px;
+    height: 381.13px;
   }
-  .Element {
-    position: absolute;
-    margin-top: 95px;
-    margin-left: -80px;
-  }
-  
-  .Hero-Heading {
+  .heading-data {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
     padding: 0px;
     gap: 60px;
   
-    width: 656px;
-    height: 361px;
+    width: 800px;
+    height: 324px;
   }
-  .Hero-textblock {
-    position: relative;
+  .textblock-data {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
     padding: 0px;
     gap: 24px;
+    isolation: isolate;
   
-    width: 656px;
-    height: 238px;
+    width: 800px;
+    height: 201px;
   }
-  
-  .Hero-h2 {
-    width: 656px;
-    height: 154px;
-    font-family: 'Inter';
+  .header-data {
+    position: relative;
+    width: 800px;
+    height: 200px;
+  }
+  .header-data-1 {
+    font-family: "Inter";
     font-style: normal;
     font-weight: 700;
-    font-size: 64px;
-    line-height: 77px;
+    font-size: 72px;
+    line-height: 87px;
     letter-spacing: -0.02em;
-    color: #4F9CF9;
-  }
-  .Hero-p {
-    width: 656px;
-    height: 60px;
   
+    color: #212529;
+  }
+  .element-data {
+    position: absolute;
+    left: 24%;
+    right: 33.12%;
+    top: 50%;
+    bottom: 50.25%;
+    margin-top: 10px;
+    border-radius: 0px;
+  }
+  .text-data {
     font-family: "Inter";
     font-style: normal;
     font-weight: 400;
@@ -72,40 +74,43 @@
     line-height: 30px;
     letter-spacing: -0.02em;
   
-    color: #4f9cf9;
+    color: #212529;
   }
-  .Hero-btn{
+  .button-data {
     display: flex;
     flex-direction: row;
+    justify-content: center;
     align-items: center;
-    position: absolute;
-    padding: 20px;
+    padding: 20px 40px;
     gap: 10px;
   
-    width: 219px;
+    width: 197px;
     height: 63px;
   
     background: #4f9cf9;
     border-radius: 8px;
+  }
+  .Btn-try {
+    width: 93px;
+    height: 23px;
   
     font-family: "Inter";
     font-style: normal;
     font-weight: 500;
     font-size: 18px;
     line-height: 23px;
-    letter-spacing: -0.02em;
+    background: #4f9cf9;
     border: none;
+  
     color: #ffffff;
   }
-  
-  .Hero-image {
-    position: relative;
+  .image-data {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
     padding: 0px;
     gap: 4px;
-  
-    width: 824px;
-    height: 549px;
+    width: 681px;
+    height: 381.13px;
   }
+  

@@ -1,0 +1,107 @@
+.our-sponsors {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 140px 220px;
+    gap: 100px;
+    isolation: isolate;
+  
+    position: absolute;
+    height: 538px;
+    left: -1px;
+    right: -1px;
+    top: 5775.13px;
+  }
+
+  .block-sponsors {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    gap: 100px;
+  
+    width: 1482px;
+    height: 258px;
+  }
+  .header-sponsors {
+    width: 1482px;
+    height: 87px;
+    
+  }
+  .header-sponsors-1 {
+    position:absolute;
+    
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 72px;
+    line-height: 87px;
+    text-align: center;
+    letter-spacing: -0.02em;
+  
+    color: #212529;
+    padding-left: 500px;
+  }
+   .element-sponsors {
+    position: relative;
+    left: 36.05%;
+    right: 36.89%;
+    top: 36.59%;
+    bottom: 55.51%; 
+    margin-top:40px;
+    margin-left:100px;
+  } 
+
+  .sponsors {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px;
+    gap: 100px;
+  
+    width: 1482px;
+    height: 71px;
+  }
+  .apple {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 4px;
+  
+    width: 55.47px;
+    height: 68px;
+  }
+  .microsoft {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 4px;
+  
+    width: 287px;
+    height: 62px;
+  }
+  .slack {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 4px;
+  
+    width: 280px;
+    height: 71px;
+  }
+  .google {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 4px;
+  
+    width: 211px;
+    height: 69.81px;
+  }
