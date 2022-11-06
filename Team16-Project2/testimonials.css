@@ -1,0 +1,190 @@
+.testimonial {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 140px 220px;
+    gap: 60px;
+    isolation: isolate;
+  
+    position: absolute;
+    height: 1042px;
+    margin-top: 7063.93px;
+  }
+  
+  .TestimonialBlock{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 60px;
+    width: 1480px;
+    height: 627px;
+  }
+  
+  .Testimonial-H1 {
+    height: 87px;
+    width: 1480px;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 72px;
+    line-height: 87px;
+    text-align: center;
+    letter-spacing: -0.02em;
+  
+    color: #212529;
+  }
+  
+  .testimonialvector {
+    position: absolute;
+    margin-top: -75px;
+    margin-left: -60px;
+  
+    width: 256.63px;
+    height: 49.95px;
+  }
+  
+  .test-content {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    gap: 32px;
+  
+    width: 1480px;
+    height: 480px;
+    margin-top: -70px;
+  }
+  
+  .client {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 60px 40px;
+    gap: 49px;
+  
+    width: 472px;
+    height: 480px;
+  
+    background: #ffffff;
+    box-shadow: 10px 10px 50px rgba(0, 0, 0, 0.08);
+    border-radius: 10px;
+  }
+  
+  .client-comment{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 35px;
+  
+    width: 350px;
+    height: 255px;
+  }
+  
+  .client-avatar {
+    width: 70px;
+    height: 70px;
+  }
+  
+  .comment-paragraph{
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    letter-spacing: -0.02em;
+    color: #01252a;
+  }
+  
+  .client-name-star {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 53px;
+  
+    width: 350px;
+    height: 56px;
+  }
+  
+  .testimonial-client-name {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 4px;
+  
+    width: 194px;
+    height: 56px;
+  }
+  
+  .testimonial-client-name-paragraph {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    letter-spacing: -0.02em;
+  
+    color: #01252a;
+  }
+  
+  .testimonial-btn-star {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 7px;
+  
+    width: 103px;
+    height: 15px;
+  }
+  
+  .testimonial-client2 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 60px 40px;
+    gap: 49px;
+  
+    width: 472px;
+    height: 480px;
+  
+    background: #4f9cf9;
+    border-radius: 10px;
+  }
+  
+  .testimonial-client-name-paragraph2 {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    letter-spacing: -0.02em;
+  
+    color: #ffffff;
+  }
+  
+  .testimonial-comment-paragraph2 {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    letter-spacing: -0.02em;
+  
+    color: #ffffff;
+  }
+  
+  .testimonial-sliders {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 10px;
+  
+    width: 250px;
+    height: 75px;
+    margin-top: -50px;
+    margin-left: -50px;
+  }

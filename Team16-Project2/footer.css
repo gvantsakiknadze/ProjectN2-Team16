@@ -1,0 +1,237 @@
+footer a:link {
+    color: #f7f7ee;
+    text-decoration: none;
+  }
+  
+  footer a:visited {
+    color: #f7f7ee;
+    text-decoration: none;
+  }
+  
+  
+  footer a:hover {
+    color: #f7f7ee;
+    text-decoration: none;
+  }
+  
+  
+  footer a:active {
+    color: #f7f7ee;
+    text-decoration: none;
+  }
+
+  footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 140px 220px 32px;
+    gap: 200px;
+  
+    position: absolute;
+    height: 474px;
+    margin-top: 8105.93px;
+    background: #043873;
+  }
+  
+  .Footer-Content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    gap: 100px;
+    isolation: isolate;
+  
+    width: 1480px;
+    height: 302px;
+  }
+  
+  .Footer-info {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 100px;
+  
+    width: 1480px;
+    height: 182px;
+  }
+  
+  .Logo-description {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 15px;
+  
+    width: 205.25px;
+    height: 169px;
+  }
+  
+  .Footer-logo {
+    width: 191px;
+    height: 34px;
+  }
+  
+  .Logo-text {
+    width: 240px;
+    height: 120px;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    letter-spacing: -0.02em;
+    color: #f7f7ee;
+  }
+  
+  .Footerinfo {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 15px; 
+    width: 205.25px;
+    height: 127px;
+  }
+  
+  .PrResComp {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    letter-spacing: -0.02em;
+  }
+  
+  .footer-list-element {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    letter-spacing: -0.02em;
+  }
+  
+  .footer-try-it-today {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 23px;
+    width: 220px;
+    height: 182px;
+  }
+  
+  .footer-h5 {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 36px;
+    letter-spacing: -0.02em;
+    color: #ffffff;
+  }
+  
+  .footer-textbox {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    letter-spacing: -0.02em;
+    color: #ffffff;
+  }
+  
+  .footer-button {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 40px;
+    gap: 10px;
+    width: 186px;
+    height: 60px;
+    background: #4f9cf9;
+    border-color: #4f9cf9;
+    border-radius: 8px;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    letter-spacing: -0.02em;
+    color: #ffffff;
+  }
+  
+  .footer-btm {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px;
+    gap: 20px;
+    width: 1480px;
+    height: 20px;
+  }
+  
+  .footer-terms-and-conditions {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    gap: 60px;
+    width: 737px;
+    height: 20px;
+  }
+  
+  .footer-social-icons {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    gap: 32px;
+  
+    width: 105px;
+    height: 16.68px;
+    margin-left: 650px;
+  }
+  
+  .footer-line {
+    position: absolute;
+    width: 1480px;
+    margin-top: -84px;
+    border: 1px solid #2e4e73;
+  }
+  
+  .footer-language {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    gap: 6px;
+    width: 104px;
+    height: 20px;
+  }
+  
+  .footer-language-icon {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 4px;
+    width: 19px;
+    height: 19px;
+  }
+  
+  .footer-language-text {
+    width: 53px;
+    height: 20px;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+  }

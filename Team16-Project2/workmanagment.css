@@ -1,0 +1,228 @@
+/* Work managment */
+.Work-management {
+ 
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 100px;
+    position: absolute;
+    height: 1588px;
+    padding: 140px 220px;
+    margin-top: 921px;
+  }
+  
+  .block {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+  
+    width: 1480px;
+    height: 1308px;
+  }
+  
+  .Content-Project {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 60px;
+    isolation: isolate;
+  
+    width: 1480px;
+    height: 547px;
+  }
+  
+  .background {
+    width: 602.84px;
+    height: 448.52px;
+    margin-top: 1186px;
+  
+    position: absolute;
+    opacity: 0.2;
+  }
+  
+  .HeadLine-Project {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 60px;
+  
+    width: 672px;
+    height: 411px;
+  }
+  
+  .Text-Block {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 24px;
+    isolation: isolate;
+  
+    width: 672px;
+    height: 288px;
+  }
+  
+  .header{
+    position: relative;
+    width: 600px;
+    height: 174px;
+  }
+  .Header-work{
+    position: absolute;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 72px;
+    line-height: 87px;
+    letter-spacing: -0.02em;
+  }
+  
+  .Text-Work {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    letter-spacing: -0.02em;
+  
+    color: #212529;
+  }
+  
+  .Getstarted-btn {
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 40px;
+    gap: 10px;
+  
+    width: 201px;
+    height: 63px;
+  
+    background: #4f9cf9;
+    border-radius: 6px;
+    border-color: white;
+  
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+  
+    letter-spacing: -0.02em;
+  
+    color: #ffffff;
+  }
+  
+  .image {
+    width: 748px;
+    height: 547px;
+  }
+  
+  .Element-work {
+    margin-top: 150px;
+    height: 29.37639315483628px;
+    width: 420.21060289581146px;
+    border-radius: 0px;
+  }
+  
+  .Worktogether-content {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    gap: 100px;
+  
+    width: 1480px;
+    height: 661px;
+  }
+  
+  .worktogether {
+    width: 710px;
+    height: 661px;
+  }
+  
+  .Worktogether-h2{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 60px;
+  
+    width: 670px;
+    height: 294px;
+  }
+  
+  .textbox-work {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 24px;
+    isolation: isolate;
+  
+    width: 670px;
+    height: 171px;
+  }
+  
+  .header-work {
+    position: relative;
+    width: 670px;
+    height: 87px;
+  }
+  
+  .worktogether-h2 {
+    position: absolute;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 72px;
+    line-height: 87px;
+    letter-spacing: -0.02em;
+  
+    color: #212529;
+  }
+  .element-work {
+    margin-top: 55px;
+    height: 28.81144905090332px;
+    width: 230.36407470703125px;
+    margin-left: 197px;
+    border-radius: 0px;
+  }
+  
+  .text-work {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+  
+    letter-spacing: -0.02em;
+  
+    color: #212529;
+  }
+  .Tryitnow {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 40px;
+    gap: 10px;
+  
+    width: 186px;
+    height: 63px;
+  
+    background: #4f9cf9;
+    border-radius: 6px;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 23px;
+  
+    letter-spacing: -0.02em;
+  
+    color: #ffffff;
+    border-color: #ffffff;
+  }

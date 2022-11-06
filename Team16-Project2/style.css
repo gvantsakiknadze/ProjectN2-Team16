@@ -1,0 +1,148 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body {
+    position: relative;
+    width: 1920px ;
+    height: 8580px;
+}
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    position: absolute;
+    height: 92px;
+    width: 1920px;
+}
+.HeaderBlock {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 361px;
+    margin-left: 219.75px;
+    width: 1480.5px;
+    height: 60px;
+}
+.Logo{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+
+    width: 191px;
+    height: 34px;
+}
+.HeaderMenu {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    
+    width: 928.5 px;
+    height: 60px;
+
+}
+.NavMenu {
+    display:flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding:0px;
+    gap: 32px;
+    width: 551.5px;
+    height:23px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 23px;
+    color: #4F9CF9;
+}
+.Products {
+    width: 78px;
+    height: 23px;
+}
+.Solution {
+    width: 79px;
+    height: 23px;
+}
+.Resources{
+    width: 90px;
+    height: 23px;
+}
+.Pricing{
+    width: 78px;
+    height:23px;
+}
+
+.Header-Btn {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 24px;
+  
+    width: 377px;
+    height: 60px;
+  }
+  
+  .Login-Btn {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 16px 40px;
+    gap: 10px;
+  
+    width: 126px;
+    height: 60px;
+  
+    background: #ffe492;
+    border-radius: 8px;
+  
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 23px;
+    letter-spacing: -0.02em;
+  
+    color: #043873;
+    border: none;
+  }
+  
+  .Try-Btn {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 16px 24px;
+    gap: 10px;
+  
+    width: 227px;
+    height: 60px;
+  
+    background: #4f9cf9;
+    border-radius: 8px;
+  
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 23px;
+    letter-spacing: -0.02em;
+  
+    color: #ffffff;
+    border: none;
+  }
+
+  
+
+
+
+
+
