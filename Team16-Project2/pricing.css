@@ -1,4 +1,3 @@
-/* pricing */
 .pricing {
     display: flex;
     flex-direction: column;
@@ -24,7 +23,7 @@
     width: 1481px;
     height: 992px;
   }
-  .heading-pricing {
+  .heading-pricing { 
     display: flex;
     flex-direction: column;
     align-items: center;
